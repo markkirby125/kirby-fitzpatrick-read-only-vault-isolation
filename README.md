@@ -2,13 +2,31 @@
 
 Enforce strict read-only boundaries on ground-truth schemas and core type contracts.
 
+[![Kirby Fitzpatrick Collection](https://img.shields.io/badge/Kirby_Fitzpatrick-Writers_Collection-blue?style=flat-square&logo=github)](https://github.com/markkirby125/kirby-fitzpatrick-writers-collection)
+[![Kirby Skills Collection](https://img.shields.io/badge/Kirby_Skills-Collection-purple?style=flat-square&logo=github)](https://github.com/markkirby125/kirby-skills-collection)
+
 ---
+
+## Repo Details
+
+* **Repository**: [https://github.com/markkirby125/kirby-fitzpatrick-read-only-vault-isolation](https://github.com/markkirby125/kirby-fitzpatrick-read-only-vault-isolation)
+* **Parent Collection**: [kirby-fitzpatrick-writers-collection](https://github.com/markkirby125/kirby-fitzpatrick-writers-collection)
+* **Master Directory**: [kirby-skills-collection](https://github.com/markkirby125/kirby-skills-collection)
+* **Category**: System Grounding
+* **Framework Author**: William Fitzpatrick
+* **YouTube Channel**: [William Fitzpatrick | Writer Science](https://www.youtube.com/@WriterScience)
+* **Source Lecture**: "A.I. Mistakes Writers Must Stop Making"
+* **Direct Video URL**: https://www.youtube.com/watch?v=3kf9rRztJgA
+
+---
+
 ## Attribution & Provenance
 
 * **Original Framework Author**: William Fitzpatrick
 * **YouTube Channel**: [William Fitzpatrick | Writer Science](https://www.youtube.com/@WriterScience)
 * **Source Lecture**: "A.I. Mistakes Writers Must Stop Making"
 * **Direct Video URL**: https://www.youtube.com/watch?v=3kf9rRztJgA
+
 ---
 
 ## Overview
