@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-read-only-vault-isolation
-description: "Enforce strict read-only boundaries on ground-truth schemas and core type contracts." Use this when working on fitzpatrick read only vault isolation.
+description: "Enforce strict read-only boundaries on ground-truth schemas and core type contracts. Use this when working on fitzpatrick read only vault isolation."
 category: "Writing & Communication"
 triggers:
   - "read only vault isolation"
