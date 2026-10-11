@@ -9,7 +9,7 @@ triggers:
   - "prevent rag drift"
   - "golden boundary"
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
